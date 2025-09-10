@@ -1,4 +1,5 @@
 #!/bin/bash
+
 MASTER_IP=$1
 
 sudo docker swarm init --advertise-addr=${MASTER_IP}
