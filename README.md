@@ -14,6 +14,6 @@ vagrant up
 vagrant ssh master
 
 docker node ls
-´´´
+```
 
 - Teste do serviço no navegador: http://10.10.10.110:8080
