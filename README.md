@@ -1,7 +1,7 @@
 # swarm-local-com-vagrant
 Bootcamp DIO - criação de Cluster Swarm local com máquinas virtuais e vagrant
 
-Obejetivo: um breve projeto com o intuito de criar um cluster Swarm local com vagrant e o virtual box de forma automatizada.
+Obejetivo: um breve projeto com o intuito de criar um cluster Swarm local com vagrant e o virtual box de forma automatizada com três nós (1 master + 2 workers).
 
 ### Necessário ter 
 - Vagrant
