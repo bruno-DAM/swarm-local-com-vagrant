@@ -1,6 +1,11 @@
 # swarm-local-com-vagrant
 Bootcamp DIO - criação de Cluster Swarm local com máquinas virtuais e vagrant
 
+### Necessário ter 
+- Vagrant
+- VirtualBox
+- Até 4GB de RAM disponível
+
 ### Como executar
 
 ```
