@@ -9,7 +9,7 @@ while [ ! -f /vagrant/worker_token.txt ]; do
   COUNT=$((COUNT + 1)) 
 
   if [ $COUNT -gt 15 ]; then 
-    echo "Token não encontrado após 1 minuto de espera. Abortando." 
+    echo "Token não encontrado após 1 minuto de espera, abortando..." 
     exit 1 
   fi 
 done
